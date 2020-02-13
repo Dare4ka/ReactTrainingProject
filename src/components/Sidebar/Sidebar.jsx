@@ -1,0 +1,23 @@
+import React from "react";
+
+const Navbar = () => {
+    return (
+        <nav className='navbar'>
+            <ul>
+                <li>
+                <a href="#">Profile</a>
+            </li>
+                <li>
+                    <a href="#">Profile</a>
+                </li>
+                <li>
+                    <a href="#">Profile</a>
+                </li>
+                <li>
+                    <a href="#">Profile</a>
+                </li>
+            </ul>
+        </nav>
+    )
+};
+export default Navbar;
